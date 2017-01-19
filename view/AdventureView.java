@@ -14,7 +14,7 @@ import person.Person;
  * PersonView | KnapsackView | Info View | DayDistanceInfoView | MiscInfoView |
  * Control View | TravelControlView | PurchaseControlView | FeedControlView
  * 
- * @author chongrui
+ * 
  *
  */
 public class AdventureView extends JPanel {
